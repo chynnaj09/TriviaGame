@@ -1,0 +1,12 @@
+body{
+    background-image: url('../images/91TmR1v-qRL._RI_.jpg');
+    background-repeat: repeat;
+    background-size: cover;
+}
+#start-button{
+    padding: 30px 60px 30px 60px;
+}
+h2,p{
+text-align: justify;
+}
+
